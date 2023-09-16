@@ -52,3 +52,9 @@
     transform: rotate(360deg);
   }
 }
+
+/* ... (existing content of app.css) ... */
+
+.active-class {
+  border-bottom: 2px solid white;
+}
