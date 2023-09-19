@@ -15,8 +15,7 @@ function About() {
         <div className="bg-gray-700 p-2 md:p-4 rounded-md space-y-4">
           <h2 className="text-xl md:text-2xl font-bold text-gray-300">About Me</h2>
           <p className="text-gray-400 leading-relaxed">
-            Hi, I'm Ethan. I've built a career around cybersecurity, ensuring data stays where it belongs. I value the intricacies of the digital landscape and the importance of mental well-being in our connected world. Beyond my professional realm, I have a keen interest in finance and the endless possibilities of innovation. I believe in consistent growth, both personally and in the ever-evolving world of technology.
-          </p>
+          Hello everyone, I'm Ethan! I've spent a significant part of my career as a Cybersecurity Auditor, dedicating 2 years to ensuring digital safety across city agencies. My foundation in this domain is reinforced by a Computer Science degree, providing me with both theoretical and practical insights. As I look ahead, my ambition is to pivot into an engineering-centric role within cybersecurity, eager to tackle new challenges and further my expertise.          </p>
         </div>
         
       </div>

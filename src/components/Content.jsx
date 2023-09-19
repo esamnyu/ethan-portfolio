@@ -40,7 +40,6 @@ function Content() {
             <div id="/" ref={homeRef}>
                 <header className="text-center py-10">
                     <h1 className="text-4xl font-bold">Ethan Sam</h1>
-                    <p className="text-xl mt-2">Ex-Cybersecurity Auditor | Aspiring Engineer & Innovator</p>
                 </header>
             </div>
             <div id="/about" ref={aboutRef}>
