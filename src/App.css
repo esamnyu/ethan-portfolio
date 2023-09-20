@@ -10,6 +10,11 @@
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+  transition: transform 0.3s ease;
+}
+
+.App-logo:hover {
+  transform: scale(1.1);
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -19,7 +24,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background: linear-gradient(45deg, #282c34, #43484d);
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -27,10 +32,16 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
 .App-link {
   color: #61dafb;
+  transition: color 0.3s ease;
+}
+
+.App-link:hover {
+  color: #4fb3d7;
 }
 
 #particles-js {
